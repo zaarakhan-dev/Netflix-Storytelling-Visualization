@@ -148,7 +148,7 @@ Netflix-Content-Analysis/
 
 │── README.md
 │── netflix_storytelling.ipynb
-│── Netflix_Data_Storytelling_Presentation.pptx
+│── Data_Visualization_Presentation.pptx
 │── netflix_titles.csv
 ```
 
